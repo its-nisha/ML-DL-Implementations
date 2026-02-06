@@ -1,1 +1,1 @@
-# ML-from-scratch
+Welcome to my central repository for Artificial Intelligence research and implementation. This project serves as a dual-purpose lab: mastering the mathematical foundations of algorithms by building them from scratch, and demonstrating production-ready workflows using industry-standard libraries.
